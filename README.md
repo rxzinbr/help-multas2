@@ -186,13 +186,6 @@ http://localhost:3000
 
 ---
 
-# Prévia do Projeto (adicione prints aqui)
-
-Você pode colocar imagens assim:
-
-```
-![Home](./prints/home.png)
-![Serviços](./prints/servicos.png)
 ```
 
 Crie uma pasta `prints/` no repositório e adicione screenshots do site.
