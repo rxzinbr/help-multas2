@@ -1,13 +1,13 @@
 # help-multas2
 
-# # 🚗 Help Multas — Site Institucional em React
+# Help Multas — Site Institucional em React
 
 Bem-vindo ao repositório do **Help Multas**, um site institucional desenvolvido em **React**, com **componentização**, **CSS Modules**, **layout responsivo**, e **footer fixado**.  
 Este projeto foi criado como **trabalho acadêmico**, apresentando boas práticas de organização, navegação, responsividade e estrutura de um projeto profissional.
 
 ---
 
-# 📌 Objetivo do Projeto
+#  Objetivo do Projeto
 
 Criar um site institucional moderno, responsivo e organizado, utilizando:
 - HTML5 dentro dos componentes React  
@@ -60,7 +60,7 @@ src/
 
 ---
 
-# 🧩 Componentização
+# Componentização
 
 O projeto utiliza componentes reutilizáveis para facilitar organização e manutenção.
 
@@ -84,7 +84,7 @@ function Home() {
 
 ---
 
-# 🎨 Estilização com CSS Modules
+# Estilização com CSS Modules
 
 Cada página tem seu próprio arquivo `.module.css`, garantindo isolamento de estilos.
 
@@ -104,7 +104,7 @@ Exemplo:
 
 ---
 
-# 📱 Responsividade
+# Responsividade
 
 Todo o site funciona bem tanto no **desktop** quanto no **mobile** usando media queries:
 
@@ -124,7 +124,7 @@ Além disso:
 
 ---
 
-# 📌 Footer Fixado no Final da Página
+# Footer Fixado no Final da Página
 
 O footer fica sempre na parte inferior usando:
 
@@ -142,7 +142,7 @@ O footer fica sempre na parte inferior usando:
 
 ---
 
-# 🌐 Navegação entre páginas (SPA)
+#  Navegação entre páginas (SPA)
 
 Toda a navegação é feita com **React Router DOM**, sem recarregar a página.
 
@@ -153,7 +153,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 | Tecnologia | Uso |
 |-----------|-----|
@@ -167,7 +167,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 ---
 
-# 🚀 Como Rodar o Projeto
+# Como Rodar o Projeto
 
 ### 1️⃣ Instale as dependências
 ```
@@ -186,7 +186,7 @@ http://localhost:3000
 
 ---
 
-# 💬 Conclusão
+# Conclusão
 
 Este projeto demonstra:
 ✔ uso correto de React  
